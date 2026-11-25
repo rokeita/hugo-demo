@@ -1,0 +1,6 @@
+baseURL = "https://rokeita.github.io/hugo-demo/"
+title = "SiteReady GH"
+theme = "ananke"
+[params]
+  description = "Websites for Cape Coast businesses. GHS 200. Live in a week."
+  featured_image = ""
